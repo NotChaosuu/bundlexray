@@ -1,0 +1,7 @@
+*.exe
+/dist
+/bin
+
+scratch/
+out/
+.DS_Store
